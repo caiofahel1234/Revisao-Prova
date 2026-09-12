@@ -8,7 +8,7 @@ import ModalDetalhes from './components/ModalDetalhes';
 import Sobre from './components/Sobre';
 import Contato from './components/Contato';
 import Rodape from './components/Rodape';
-import './styles/global.css';
+import './styles/Global.css';
 
 export default function App() {
   const [busca, setBusca] = useState('');
